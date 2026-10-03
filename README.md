@@ -55,6 +55,3 @@ jupyter notebook solution.ipynb
 ## Требования
 - Python 3.12+ (проверено на 3.14)
 - Зависимости в `requirements.txt`
-
-## Автор
-Грязнов Максим Александрович, группа БВТ25xx
