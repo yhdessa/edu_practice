@@ -1,0 +1,2 @@
+лучшая модель: e5
+см. results_table.csv
